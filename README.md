@@ -48,37 +48,4 @@ B2B Chat은 기업 간 커뮤니케이션을 위한 CS챗봇. Next.js 13 App Rou
     └── /manage - 기업 관리
 ```
 
-## 개발 환경 설정
 
-1. 저장소 클론
-```bash
-git clone https://github.com/[username]/b2b-chat.git
-cd b2b-chat
-```
-
-2. 의존성 설치
-```bash
-npm install
-```
-
-3. 환경 변수 설정
-```bash
-cp .env.example .env.local
-```
-
-4. 개발 서버 실행
-```bash
-npm run dev
-```
-
-## 환경 변수 설정
-
-프로젝트 실행을 위해 다음 환경 변수가 필요합니다:
-
-- `NEXT_PUBLIC_SUPABASE_URL`: Supabase 프로젝트 URL
-- `NEXT_PUBLIC_SUPABASE_ANON_KEY`: Supabase 익명 키
-- `NEXT_PUBLIC_SITE_URL`: 사이트 URL
-
-## 라이선스
-
-MIT License
