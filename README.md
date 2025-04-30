@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/502c37e5-4ea0-4e37-b826-adf5c307ec70)
+
 # B2B Chat Application
 
 ## 프로젝트 소개
@@ -31,7 +34,6 @@ B2B Chat은 기업 간 커뮤니케이션을 위한 CS챗봇. Next.js 13 App Rou
     └── /manage - 기업 관리
 ```
 
-![image](https://github.com/user-attachments/assets/502c37e5-4ea0-4e37-b826-adf5c307ec70)
 
 
 
