@@ -1,8 +1,6 @@
-<div align="center">
-
 ## 🚀 비즈니스 성과
 
-<div style="border: 2px solid #3ECF8E; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);">
+<div style="border: 2px solid #3B82F6; border-radius: 8px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, #F0F9FF 0%, #E0F2FE 100%);">
 
 ### 에듀테크 스타트업 - Founder & Product Lead
 - 오가닉 컨텐츠로 오디언스 6000명 달성: https://www.youtube.com/@jacob.language
@@ -13,8 +11,6 @@
 </div>
 
 ## 🤖 AI & 머신러닝 스택
-
-<div style="border: 2px solid #412991; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);">
 
 ### LLM & 벡터 데이터베이스
 ![LangChain](https://img.shields.io/badge/LangChain-00FF00?style=for-the-badge&logo=langchain&logoColor=black)
@@ -40,11 +36,7 @@
   - 개인화된 학습 경로 제안
   - 성과 예측 및 개선점 도출
 
-</div>
-
 ## 🎯 프레임워크 & 라이브러리
-
-<div style="border: 2px solid #007ACC; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);">
 
 ### 핵심 프레임워크
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -84,11 +76,7 @@
 - **zod**: 스키마 검증
 - **es-toolkit**: 유틸리티 함수
 
-</div>
-
 ## 🗄️ 백엔드 서비스
-
-<div style="border: 2px solid #3ECF8E; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);">
 
 ### 데이터베이스 & 인증
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -109,11 +97,7 @@
   - 이미지 최적화
   - 실시간 프리뷰
 
-</div>
-
 ## 🔌 API 통합
-
-<div style="border: 2px solid #FF6B6B; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);">
 
 ### 인공지능 API
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -133,11 +117,7 @@
 - **Microsoft Clarity**: 사용자 행동 분석
 - **Google Analytics**: 웹 분석
 
-</div>
-
 ## ☁️ 인프라 & 배포
-
-<div style="border: 2px solid #000000; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);">
 
 ### 호스팅 & CDN
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -157,11 +137,7 @@
 - **Prettier**: 코드 포맷팅
 - **PostCSS**: CSS 처리
 
-</div>
-
 ## 🔒 보안
-
-<div style="border: 2px solid #4B32C3; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);">
 
 ### 인증 & 권한
 ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextauth.js&logoColor=white)
@@ -175,7 +151,3 @@
 - 암호화된 통신 (HTTPS)
 - 데이터 암호화
 - SQL 인젝션 방지
-
-</div>
-
-</div>
