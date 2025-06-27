@@ -1,6 +1,7 @@
-## 에듀테크 스타트업 - Founder & Product Lead
+## 비즈니스 성과
 
-### 비즈니스 성장지표
+### 에듀테크 스타트업 성장 지표
+- Founder & Product Lead
 - 오가닉 컨텐츠로 오디언스 6000명 달성: https://www.youtube.com/@jacob.language
 - 리드고객 160명 확보: https://mlanguage.xyz
 - 운영기간 매출: XXX만원 달성
@@ -9,8 +10,8 @@
 ## AI & 머신러닝 스택
 
 ### LLM & 벡터 데이터베이스
-![LangChain](https://cdn.simpleicons.org/langchain)
-![OpenAI](https://cdn.simpleicons.org/openai)
+<img src="https://cdn.simpleicons.org/langchain" width="20" height="20" alt="LangChain" />
+<img src="https://cdn.simpleicons.org/openai" width="20" height="20" alt="OpenAI" />
 - **LangChain**
   - OpenAI GPT-4 통합
   - 프롬프트 체이닝
@@ -35,10 +36,10 @@
 ## 프레임워크 & 라이브러리
 
 ### 핵심 프레임워크
-![Next.js](https://cdn.simpleicons.org/nextdotjs)
-![React](https://cdn.simpleicons.org/react)
-![TypeScript](https://cdn.simpleicons.org/typescript)
-![Tailwind CSS](https://cdn.simpleicons.org/tailwindcss)
+<img src="https://cdn.simpleicons.org/nextdotjs" width="20" height="20" alt="Next.js" />
+<img src="https://cdn.simpleicons.org/react" width="20" height="20" alt="React" />
+<img src="https://cdn.simpleicons.org/typescript" width="20" height="20" alt="TypeScript" />
+<img src="https://cdn.simpleicons.org/tailwindcss" width="20" height="20" alt="Tailwind CSS" />
 
 - **Next.js 14** (App Router)
 - **React 18**
@@ -46,18 +47,18 @@
 - **Tailwind CSS**
 
 ### 상태 관리
-![Zustand](https://cdn.simpleicons.org/zustand)
-![TanStack Query](https://cdn.simpleicons.org/tanstackquery)
-![React Hook Form](https://cdn.simpleicons.org/reacthookform)
+<img src="https://cdn.simpleicons.org/zustand" width="20" height="20" alt="Zustand" />
+<img src="https://cdn.simpleicons.org/tanstackquery" width="20" height="20" alt="TanStack Query" />
+<img src="https://cdn.simpleicons.org/reacthookform" width="20" height="20" alt="React Hook Form" />
 
 - **Zustand**: 전역 상태 관리
 - **@tanstack/react-query**: 서버 상태 관리
 - **react-hook-form**: 폼 상태 관리
 
 ### UI/UX
-![shadcn/ui](https://cdn.simpleicons.org/shadcnui)
-![Lucide](https://cdn.simpleicons.org/lucide)
-![date-fns](https://cdn.simpleicons.org/datefns)
+<img src="https://cdn.simpleicons.org/shadcnui" width="20" height="20" alt="shadcn/ui" />
+<img src="https://cdn.simpleicons.org/lucide" width="20" height="20" alt="Lucide" />
+<img src="https://cdn.simpleicons.org/datefns" width="20" height="20" alt="date-fns" />
 
 - **shadcn/ui**: 접근성 높은 UI 컴포넌트
 - **lucide-react**: 아이콘
@@ -66,8 +67,8 @@
 - **react-use**: React 유틸리티 훅
 
 ### 유틸리티
-![Zod](https://cdn.simpleicons.org/zod)
-![es-toolkit](https://cdn.simpleicons.org/estoolkit)
+<img src="https://cdn.simpleicons.org/zod" width="20" height="20" alt="Zod" />
+<img src="https://cdn.simpleicons.org/estoolkit" width="20" height="20" alt="es-toolkit" />
 
 - **zod**: 스키마 검증
 - **es-toolkit**: 유틸리티 함수
@@ -75,8 +76,8 @@
 ## 백엔드 서비스
 
 ### 데이터베이스 & 인증
-![Supabase](https://cdn.simpleicons.org/supabase)
-![PostgreSQL](https://cdn.simpleicons.org/postgresql)
+<img src="https://cdn.simpleicons.org/supabase" width="20" height="20" alt="Supabase" />
+<img src="https://cdn.simpleicons.org/postgresql" width="20" height="20" alt="PostgreSQL" />
 
 - **Supabase**
   - PostgreSQL 데이터베이스
@@ -86,7 +87,7 @@
   - Storage
 
 ### CMS & 콘텐츠
-![Sanity](https://cdn.simpleicons.org/sanity)
+<img src="https://cdn.simpleicons.org/sanity" width="20" height="20" alt="Sanity" />
 
 - **Sanity.io**
   - 콘텐츠 관리
@@ -96,7 +97,7 @@
 ## API 통합
 
 ### 인공지능 API
-![OpenAI](https://cdn.simpleicons.org/openai)
+<img src="https://cdn.simpleicons.org/openai" width="20" height="20" alt="OpenAI" />
 
 - **OpenAI GPT-4**
   - 챗봇 기능
@@ -105,9 +106,9 @@
   - 발음 평가
 
 ### 외부 서비스 API
-![Channel.io](https://cdn.simpleicons.org/channelio)
-![Microsoft Clarity](https://cdn.simpleicons.org/microsoftclarity)
-![Google Analytics](https://cdn.simpleicons.org/googleanalytics)
+<img src="https://cdn.simpleicons.org/channelio" width="20" height="20" alt="Channel.io" />
+<img src="https://cdn.simpleicons.org/microsoftclarity" width="20" height="20" alt="Microsoft Clarity" />
+<img src="https://cdn.simpleicons.org/googleanalytics" width="20" height="20" alt="Google Analytics" />
 
 - **Channel.io**: 고객 지원 채팅
 - **Microsoft Clarity**: 사용자 행동 분석
@@ -116,7 +117,7 @@
 ## 인프라 & 배포
 
 ### 호스팅 & CDN
-![Vercel](https://cdn.simpleicons.org/vercel)
+<img src="https://cdn.simpleicons.org/vercel" width="20" height="20" alt="Vercel" />
 
 - **Vercel**
   - Edge Functions
@@ -125,9 +126,9 @@
   - SSL/TLS
 
 ### 개발 도구
-![ESLint](https://cdn.simpleicons.org/eslint)
-![Prettier](https://cdn.simpleicons.org/prettier)
-![PostCSS](https://cdn.simpleicons.org/postcss)
+<img src="https://cdn.simpleicons.org/eslint" width="20" height="20" alt="ESLint" />
+<img src="https://cdn.simpleicons.org/prettier" width="20" height="20" alt="Prettier" />
+<img src="https://cdn.simpleicons.org/postcss" width="20" height="20" alt="PostCSS" />
 
 - **ESLint**: 코드 품질 관리
 - **Prettier**: 코드 포맷팅
@@ -136,8 +137,8 @@
 ## 보안
 
 ### 인증 & 권한
-![NextAuth.js](https://cdn.simpleicons.org/nextauthjs)
-![JWT](https://cdn.simpleicons.org/jsonwebtokens)
+<img src="https://cdn.simpleicons.org/nextauthjs" width="20" height="20" alt="NextAuth.js" />
+<img src="https://cdn.simpleicons.org/jsonwebtokens" width="20" height="20" alt="JWT" />
 
 - **Next-Auth**
 - **JWT 토큰**
