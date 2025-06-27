@@ -1,39 +1,112 @@
+## 비즈니스 성과
 
-![image](https://github.com/user-attachments/assets/502c37e5-4ea0-4e37-b826-adf5c307ec70)
+### 에듀테크 스타트업 성장 지표
+- Founder & Product Lead
+- 오가닉 컨텐츠로 오디언스 6000명 달성: https://www.youtube.com/@jacob.language
+- 리드고객 160명 확보: https://mlanguage.xyz
+- 운영기간 매출: XXX만원 달성
+- 광고비 0원, API 사용비용을 제외하면 모두 Operating Income으로 전환
 
-# B2B Chat Application
+## AI & 머신러닝 스택
 
-## 프로젝트 소개
+### LLM & 벡터 데이터베이스
+- LangChain
+  - OpenAI GPT-4 통합
+  - 프롬프트 체이닝
+  - 에이전트 오케스트레이션
+  - 메모리 관리
+- Vector Database
+  - 지식베이스 구축
+  - 시맨틱 검색
+  - 컨텍스트 기반 응답 생성
 
-B2B Chat은 기업 간 커뮤니케이션을 위한 CS챗봇. Next.js 13 App Router와 Supabase를 활용하여 구축되었음
+### AI 에이전트
+- 챗봇 시스템
+  - LangChain 기반 대화 관리
+  - 컨텍스트 인식 응답
+  - 학습 진도 추적
+  - 실시간 피드백
+- 학습 분석 에이전트
+  - 데이터 기반 학습 패턴 분석
+  - 개인화된 학습 경로 제안
+  - 성과 예측 및 개선점 도출
 
-🔗 **Live Demo**: [https://b2b-chat.vercel.app/](https://b2b-chat.vercel.app/)
+## 프레임워크 & 라이브러리
 
-## 기술 스택
+### 핵심 프레임워크
+- Next.js 14 (App Router)
+- React 18
+- TypeScript
+- Tailwind CSS
 
-- **Frontend**: Next.js 13 (App Router), React, TypeScript
-- **Styling**: Tailwind CSS, shadcn/ui
-- **Backend**: Supabase
-- **상태 관리**: TanStack Query, Zustand
-- **폼 관리**: React Hook Form, Zod
-- **유틸리티**: date-fns, ts-pattern
+### 상태 관리
+- Zustand: 전역 상태 관리
+- @tanstack/react-query: 서버 상태 관리
+- react-hook-form: 폼 상태 관리
 
-## URL 구조
+### UI/UX
+- shadcn/ui: 접근성 높은 UI 컴포넌트
+- lucide-react: 아이콘
+- date-fns: 날짜/시간 처리
+- ts-pattern: 타입 안전한 분기 처리
+- react-use: React 유틸리티 훅
 
-```
-/ - 메인 페이지
-├── /auth
-│   ├── /signin - 로그인
-│   └── /signup - 회원가입
-├── /dashboard
-│   ├── /chat - 채팅 목록
-│   ├── /profile - 프로필 관리
-│   └── /settings - 설정
-└── /company
-    ├── /[id] - 기업 상세 정보
-    └── /manage - 기업 관리
-```
+### 유틸리티
+- zod: 스키마 검증
+- es-toolkit: 유틸리티 함수
 
+## 백엔드 서비스
 
+### 데이터베이스 & 인증
+- Supabase
+  - PostgreSQL 데이터베이스
+  - 사용자 인증 (Auth)
+  - 실시간 구독
+  - Edge Functions
+  - Storage
 
+### CMS & 콘텐츠
+- Sanity.io
+  - 콘텐츠 관리
+  - 이미지 최적화
+  - 실시간 프리뷰
 
+## API 통합
+
+### 인공지능 API
+- OpenAI GPT-4
+  - 챗봇 기능
+  - 문장 분석
+  - 문맥 이해
+  - 발음 평가
+
+### 외부 서비스 API
+- Channel.io: 고객 지원 채팅
+- Microsoft Clarity: 사용자 행동 분석
+- Google Analytics: 웹 분석
+
+## 인프라 & 배포
+
+### 호스팅 & CDN
+- Vercel
+  - Edge Functions
+  - CDN
+  - 자동 배포
+  - SSL/TLS
+
+### 개발 도구
+- ESLint: 코드 품질 관리
+- Prettier: 코드 포맷팅
+- PostCSS: CSS 처리
+
+## 보안
+
+### 인증 & 권한
+- Next-Auth
+- JWT 토큰
+- Role-based 접근 제어
+
+### 데이터 보안
+- 암호화된 통신 (HTTPS)
+- 데이터 암호화
+- SQL 인젝션 방지
