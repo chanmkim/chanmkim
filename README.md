@@ -6,7 +6,7 @@
 > - 운영기간 매출: XXX만원 달성
 > - 광고비 0원, API 사용비용을 제외하면 모두 Operating Income으로 전환
 >
-> ### 마케팅 퍼널 - AVG CTOR 30% / CAC $0 / Contents & Webinar Marketing
+> ### 마케팅 퍼널 - AVG CTOR 30% / CAC $0 / Contents & Webinar
 > ```mermaid
 > %%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '16px'}, 'flowchart': {'htmlLabels': true}, 'zoom': false}}%%
 > graph LR
