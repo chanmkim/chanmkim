@@ -2,7 +2,7 @@
 >
 > ### 에듀테크 스타트업 - Founder & Product Lead
 > - 오가닉 컨텐츠로 오디언스 6000명 달성: https://www.youtube.com/@jacob.language
-> - 리드고객 160명 확보: https://mlanguage.xyz
+> - 리드고객 200명 확보: https://mlanguage.xyz
 > - 운영기간 매출: XXX만원 달성
 > - 광고비 0원, API 사용비용을 제외하면 모두 Operating Income으로 전환
 >
@@ -11,7 +11,7 @@
 > %%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '16px'}, 'flowchart': {'htmlLabels': true}, 'zoom': false}}%%
 > graph LR
 >     A["🎥 유튜브<br/>오가닉 오디언스<br/>6,000명"] -->|"컨텐츠 마케팅"| B["🌐 웹사이트<br/>방문<br/>mlanguage.xyz"]
->     B -->|"리드 너쳐링"| C["👥 리드 고객<br/>160명"]
+>     B -->|"리드 너쳐링"| C["👥 리드 고객<br/>200명"]
 >     C -->|"매출 전환"| D["💰 매출<br/>XXX만원"]
 >     
 >     style A fill:#f9f,stroke:#333,stroke-width:2px
