@@ -10,8 +10,8 @@
 ## AI & 머신러닝 스택
 
 ### LLM & 벡터 데이터베이스
-<img src="https://cdn.simpleicons.org/langchain" width="20" height="20" alt="LangChain" />
-<img src="https://cdn.simpleicons.org/openai" width="20" height="20" alt="OpenAI" />
+![LangChain](https://img.shields.io/badge/LangChain-00FF00?style=for-the-badge&logo=langchain&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 - **LangChain**
   - OpenAI GPT-4 통합
   - 프롬프트 체이닝
@@ -36,10 +36,10 @@
 ## 프레임워크 & 라이브러리
 
 ### 핵심 프레임워크
-<img src="https://cdn.simpleicons.org/nextdotjs" width="20" height="20" alt="Next.js" />
-<img src="https://cdn.simpleicons.org/react" width="20" height="20" alt="React" />
-<img src="https://cdn.simpleicons.org/typescript" width="20" height="20" alt="TypeScript" />
-<img src="https://cdn.simpleicons.org/tailwindcss" width="20" height="20" alt="Tailwind CSS" />
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 - **Next.js 14** (App Router)
 - **React 18**
@@ -47,18 +47,18 @@
 - **Tailwind CSS**
 
 ### 상태 관리
-<img src="https://cdn.simpleicons.org/zustand" width="20" height="20" alt="Zustand" />
-<img src="https://cdn.simpleicons.org/tanstackquery" width="20" height="20" alt="TanStack Query" />
-<img src="https://cdn.simpleicons.org/reacthookform" width="20" height="20" alt="React Hook Form" />
+![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 - **Zustand**: 전역 상태 관리
 - **@tanstack/react-query**: 서버 상태 관리
 - **react-hook-form**: 폼 상태 관리
 
 ### UI/UX
-<img src="https://cdn.simpleicons.org/shadcnui" width="20" height="20" alt="shadcn/ui" />
-<img src="https://cdn.simpleicons.org/lucide" width="20" height="20" alt="Lucide" />
-<img src="https://cdn.simpleicons.org/datefns" width="20" height="20" alt="date-fns" />
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Lucide](https://img.shields.io/badge/Lucide-000000?style=for-the-badge&logo=lucide&logoColor=white)
+![date-fns](https://img.shields.io/badge/date--fns-000000?style=for-the-badge&logo=date-fns&logoColor=white)
 
 - **shadcn/ui**: 접근성 높은 UI 컴포넌트
 - **lucide-react**: 아이콘
@@ -67,8 +67,8 @@
 - **react-use**: React 유틸리티 훅
 
 ### 유틸리티
-<img src="https://cdn.simpleicons.org/zod" width="20" height="20" alt="Zod" />
-<img src="https://cdn.simpleicons.org/estoolkit" width="20" height="20" alt="es-toolkit" />
+![Zod](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=white)
+![es-toolkit](https://img.shields.io/badge/es--toolkit-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 - **zod**: 스키마 검증
 - **es-toolkit**: 유틸리티 함수
@@ -76,8 +76,8 @@
 ## 백엔드 서비스
 
 ### 데이터베이스 & 인증
-<img src="https://cdn.simpleicons.org/supabase" width="20" height="20" alt="Supabase" />
-<img src="https://cdn.simpleicons.org/postgresql" width="20" height="20" alt="PostgreSQL" />
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - **Supabase**
   - PostgreSQL 데이터베이스
@@ -87,7 +87,7 @@
   - Storage
 
 ### CMS & 콘텐츠
-<img src="https://cdn.simpleicons.org/sanity" width="20" height="20" alt="Sanity" />
+![Sanity](https://img.shields.io/badge/Sanity-000000?style=for-the-badge&logo=sanity&logoColor=white)
 
 - **Sanity.io**
   - 콘텐츠 관리
@@ -97,7 +97,7 @@
 ## API 통합
 
 ### 인공지능 API
-<img src="https://cdn.simpleicons.org/openai" width="20" height="20" alt="OpenAI" />
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 - **OpenAI GPT-4**
   - 챗봇 기능
@@ -106,9 +106,9 @@
   - 발음 평가
 
 ### 외부 서비스 API
-<img src="https://cdn.simpleicons.org/channelio" width="20" height="20" alt="Channel.io" />
-<img src="https://cdn.simpleicons.org/microsoftclarity" width="20" height="20" alt="Microsoft Clarity" />
-<img src="https://cdn.simpleicons.org/googleanalytics" width="20" height="20" alt="Google Analytics" />
+![Channel.io](https://img.shields.io/badge/Channel.io-FF6B6B?style=for-the-badge&logo=channelio&logoColor=white)
+![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 - **Channel.io**: 고객 지원 채팅
 - **Microsoft Clarity**: 사용자 행동 분석
@@ -117,7 +117,7 @@
 ## 인프라 & 배포
 
 ### 호스팅 & CDN
-<img src="https://cdn.simpleicons.org/vercel" width="20" height="20" alt="Vercel" />
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 - **Vercel**
   - Edge Functions
@@ -126,9 +126,9 @@
   - SSL/TLS
 
 ### 개발 도구
-<img src="https://cdn.simpleicons.org/eslint" width="20" height="20" alt="ESLint" />
-<img src="https://cdn.simpleicons.org/prettier" width="20" height="20" alt="Prettier" />
-<img src="https://cdn.simpleicons.org/postcss" width="20" height="20" alt="PostCSS" />
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
 
 - **ESLint**: 코드 품질 관리
 - **Prettier**: 코드 포맷팅
@@ -137,8 +137,8 @@
 ## 보안
 
 ### 인증 & 권한
-<img src="https://cdn.simpleicons.org/nextauthjs" width="20" height="20" alt="NextAuth.js" />
-<img src="https://cdn.simpleicons.org/jsonwebtokens" width="20" height="20" alt="JWT" />
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextauth.js&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 - **Next-Auth**
 - **JWT 토큰**
