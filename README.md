@@ -8,6 +8,7 @@
 >
 > ### 마케팅 퍼널
 > ```mermaid
+> %%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '16px'}, 'flowchart': {'htmlLabels': true}, 'zoom': false}}%%
 > graph LR
 >     A["🎥 유튜브<br/>오가닉 오디언스<br/>6,000명"] -->|"컨텐츠 마케팅"| B["🌐 웹사이트<br/>방문<br/>mlanguage.xyz"]
 >     B -->|"리드 전환"| C["👥 리드 고객<br/>160명"]
