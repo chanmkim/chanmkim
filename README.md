@@ -166,12 +166,17 @@
 > ### 인증 & 권한
 > ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextauth.js&logoColor=white)
 > ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+> ![OAuth2](https://img.shields.io/badge/OAuth2-43853D?style=for-the-badge&logo=OAuth2&logoColor=white)
+> ![RBAC](https://img.shields.io/badge/RBAC-2C5BB4?style=for-the-badge&logo=auth0&logoColor=white)
 >
-> - **Next-Auth**
-> - **JWT 토큰**
-> - **Role-based 접근 제어**
+> - Next-Auth
+> - JWT 토큰
+> - Role-based 접근 제어
 >
 > ### 데이터 보안
+> ![HTTPS](https://img.shields.io/badge/HTTPS-FF6C37?style=for-the-badge&logo=https&logoColor=white)
+> ![Encryption](https://img.shields.io/badge/Encryption-4A154B?style=for-the-badge&logo=vault&logoColor=white)
+> ![SQL Security](https://img.shields.io/badge/SQL_Security-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 > - 암호화된 통신 (HTTPS)
 > - 데이터 암호화
 > - SQL 인젝션 방지
