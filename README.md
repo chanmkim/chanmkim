@@ -5,6 +5,19 @@
 > - 리드고객 160명 확보: https://mlanguage.xyz
 > - 운영기간 매출: XXX만원 달성
 > - 광고비 0원, API 사용비용을 제외하면 모두 Operating Income으로 전환
+>
+> ### 마케팅 퍼널
+> ```mermaid
+> graph LR
+>     A["🎥 유튜브<br/>오가닉 오디언스<br/>6,000명"] -->|"컨텐츠 마케팅"| B["🌐 웹사이트<br/>방문<br/>mlanguage.xyz"]
+>     B -->|"리드 전환"| C["👥 리드 고객<br/>160명"]
+>     C -->|"매출 전환"| D["💰 매출<br/>XXX만원"]
+>     
+>     style A fill:#f9f,stroke:#333,stroke-width:2px
+>     style B fill:#bbf,stroke:#333,stroke-width:2px
+>     style C fill:#bfb,stroke:#333,stroke-width:2px
+>     style D fill:#ff9,stroke:#333,stroke-width:2px
+> ```
 
 ---
 
