@@ -11,7 +11,7 @@
 > %%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '16px'}, 'flowchart': {'htmlLabels': true}, 'zoom': false}}%%
 > graph LR
 >     A["🎥 유튜브<br/>오가닉 오디언스<br/>6,000명"] -->|"컨텐츠 마케팅"| B["🌐 웹사이트<br/>방문<br/>mlanguage.xyz"]
->     B -->|"리드 전환"| C["👥 리드 고객<br/>160명"]
+>     B -->|"리드 너쳐링"| C["👥 리드 고객<br/>160명"]
 >     C -->|"매출 전환"| D["💰 매출<br/>XXX만원"]
 >     
 >     style A fill:#f9f,stroke:#333,stroke-width:2px
