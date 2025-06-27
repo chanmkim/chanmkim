@@ -1,14 +1,10 @@
 ## 🚀 비즈니스 성과
 
-<div style="border: 2px solid #3B82F6; border-radius: 8px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, #F0F9FF 0%, #E0F2FE 100%);">
-
 ### 에듀테크 스타트업 - Founder & Product Lead
 - 오가닉 컨텐츠로 오디언스 6000명 달성: https://www.youtube.com/@jacob.language
 - 리드고객 160명 확보: https://mlanguage.xyz
 - 운영기간 매출: XXX만원 달성
 - 광고비 0원, API 사용비용을 제외하면 모두 Operating Income으로 전환
-
-</div>
 
 ## 🤖 AI & 머신러닝 스택
 
