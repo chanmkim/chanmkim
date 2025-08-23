@@ -1,6 +1,6 @@
 > ## 🚀 비즈니스 성과
 >
-> ### 미디어 스타트업 - Founder & Product Lead
+> ### AI 스타트업 - Co-Founder & Business Lead
 > - 오가닉 컨텐츠로 오디언스 6000명 달성: https://www.youtube.com/@jacob.language
 > - 리드고객 200명 확보: https://mlanguage.xyz
 > - 운영기간 매출: XXX만원 달성 (24.12 ~ 25.06)
